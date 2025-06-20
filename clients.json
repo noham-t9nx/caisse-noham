@@ -1,0 +1,32 @@
+{
+    "client1@example.com": {
+        "nom": "Martin",
+        "prenom": "Alice",
+        "mot_de_passe": "1234"
+    },
+    "client2@example.com": {
+        "nom": "Durand",
+        "prenom": "Jean",
+        "mot_de_passe": "azerty"
+    },
+    "noham@gmail.com": {
+        "prenom": "Noham",
+        "nom": "Tayache",
+        "mot_de_passe": "123456"
+    },
+    "sonia@gmail.com": {
+        "prenom": "Sonia",
+        "nom": "Tayache",
+        "mot_de_passe": "1234"
+    },
+    "wtayache@gmail.com": {
+        "prenom": "Wael",
+        "nom": "Tayache",
+        "mot_de_passe": "pikachu"
+    },
+    "zizou@zidane.com": {
+        "prenom": "Zizou",
+        "nom": "ZIDANE",
+        "mot_de_passe": "zizou"
+    }
+}
